@@ -1,0 +1,13 @@
+{
+    "name": "larek/mebel-widget",
+    "description": "test-widget",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Tikhonov",
+            "email": "t9101029991@gmail.com"
+        }
+    ],
+    "require": {}
+}
