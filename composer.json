@@ -10,5 +10,10 @@
             "email": "t9101029991@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "larek\\": ""
+        }
+    },
     "require": {}
 }
