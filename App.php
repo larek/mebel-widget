@@ -1,4 +1,7 @@
 <?php
+
+namespace larek;
+
 class App
 {
   public $name = 'larek';
